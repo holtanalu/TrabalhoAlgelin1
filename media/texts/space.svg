@@ -3,14 +3,14 @@
 <defs>
 <g>
 <symbol overflow="visible" id="glyph0-0">
-<path style="stroke:none;" d="M 0.5 1.765625 L 0.5 -7.046875 L 5.5 -7.046875 L 5.5 1.765625 Z M 1.0625 1.21875 L 4.9375 1.21875 L 4.9375 -6.484375 L 1.0625 -6.484375 Z M 1.0625 1.21875 "/>
+<path style="stroke:none;" d="M 0.320312 0 L 0.320312 -7.171875 L 6.015625 -7.171875 L 6.015625 0 Z M 5.117188 -0.898438 L 5.117188 -6.273438 L 1.21875 -6.273438 L 1.21875 -0.898438 Z M 5.117188 -0.898438 "/>
 </symbol>
 <symbol overflow="visible" id="glyph0-1">
-<path style="stroke:none;" d="M 5.09375 1.65625 L 5.09375 2.359375 L -0.09375 2.359375 L -0.09375 1.65625 Z M 5.09375 1.65625 "/>
+<path style="stroke:none;" d="M 0 1.25 L 0 0.757812 L 5.5625 0.757812 L 5.5625 1.25 Z M 0 1.25 "/>
 </symbol>
 </g>
 </defs>
-<g id="surface6">
+<g id="surface1">
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="30" y="20"/>
 </g>
